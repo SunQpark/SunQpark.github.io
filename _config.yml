@@ -1,2 +1,3 @@
-theme: jekyll-theme-minimal
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "air"
 title: Louis Park's blog
