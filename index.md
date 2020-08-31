@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+## Louis Park's blog
 
-You can use the [editor on GitHub](https://github.com/SunQpark/SunQpark.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+수학을 전공하면서 순수수학이 정신건강에 매우 해로운 학문이라는 사실을 깨닫고, 때마침 흥미가 생긴 딥러닝을 공부하다보니 어느새 컴퓨터 비전과 딥러닝을 연구하는 개발자가 되었습니다. 카카오엔터프라이즈의 컨텍스트 파트에서 딥러닝 기반의 문자인식(OCR)과 관련된 이런저런 프로젝트를 하고있으며, 취미로 3D컴퓨터 그래픽을 독학하고 있습니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SunQpark/SunQpark.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+블로그는 이제 막 작성하기 시작해서, 아직 뭐가 많이 없습니다.
