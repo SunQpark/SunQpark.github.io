@@ -96,7 +96,7 @@ analytics:
 # Site Author
 author:
   name             : "Seonkyu Park"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Working on OCR related projects @[kakaoenterprise](https://www.kakaoenterprise.com/). Learning computer graphics with blender, for hobby"
   location         : "Seoul, Republic of Korea"
   email            : "SunQ0313@gmail.com"
